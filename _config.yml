@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wenhan Luo"
-description              : ""
-repository               : "whluo/whluo.github.io"
+title                    : "Zitong Yu"
+description              : "Zitong Yu's Homepage"
+repository               : "ZitongYu/ZitongYu.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "UA-40545479-1" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wenhan Luo"
-  avatar           : "images/wenhan_square.png"
-  bio              : "Associate Professor, HKUST"
-  location         : "Clear Water Bay, Kowloon, Hong Kong"
-  employer         : # HKUST
+  name             : "Zitong Yu"
+  avatar           : # "images/zitong.png"
+  bio              : "Assistant Professor, Great Bay University"
+  location         : "Great Bay University, China"
+  employer         : # Great Bay University
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=g20Q12MAAAAJ"
-  email            : "whluo@ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=ziHejLwAAAAJ&hl=en"
+  email            : "zitong.yu@ieee.org"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "ZitongYu"
   google_plus      :
   keybase          :
   instagram        :

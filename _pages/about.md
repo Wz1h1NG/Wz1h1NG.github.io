@@ -27,182 +27,46 @@ redirect_from:
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<p style="text-align:justify; text-justify:inter-ideograph;"> I am now an Associate Professor with the Hong Kong University of Science and Technology (HKUST), leading the <a href="https://c4g-hkust.github.io/" target="_blank">Creative, Controllable & Cognitive Computing Group (C4G)</a> in HKUST. Previously, I worked as an Associate Professor at Sun Yat-sen University, and an applied research scientist at Tencent, solving real-world problems using computer vision and machine learning techniques. Prior to Tencent, I worked for Amazon in Palo Alto, California, where I developed deep models for better visual search experience. Before that, I worked as a research scientist in Tencent AI Lab. The techniques I have developed/involved have been shipped to several products in Tencent such as WeChat, QQ, Tencent Video, Tencent Yuanbao, Tencent Cloud, and myapp. I received the Ph.D. degree from Imperial College London, UK, 2016, under the supervision of <a href="https://sites.google.com/view/tkkim/" target="_blank">Prof. Tae-Kyun Kim</a>, and working closely with <a href="https://bjornstenger.github.io/" target="_blank">Dr. Bjorn Stenger</a>, M.E. degree from Institute of Automation, Chinese Academy of Sciences, China, 2012, under the supervision of <a href="https://scholar.google.com/citations?user=Wl4tl4QAAAAJ&hl=en" target="_blank">Prof. Weiming Hu</a>, and B.E. degree from Huazhong University of Science and Technology, China, 2009.</p>
+<p align="center"><font size="6px">Zitong Yu (余梓彤) | Great Bay University (湾大)</font><br>
+zitong.yu [at] ieee.org ; yuzitong [at] gbu.edu.cn</p>
 
-<p style="text-align:justify; text-justify:inter-ideograph;"> I have published over 100 peer-reviewed papers in top-tier conferences and journals, like ICML, NeurIPS, CVPR, ICCV, ECCV, SIGGRAPH, ACL, ICLR, TPAMI, AI, IJCV. My work is selected into the CVPR 2019 Best Paper Finalist and I was awarded the 2022 ACM China Rising Star Award (Guangzhou Chapter). I have served as Senior Area Editor for IEEE Signal Processing Letters, Associate Editor for IEEE Transactions on Image Processing, Neurocomputing, IET Computer Vision, Area Chair for ICLR, NeurIPS, ACM MM, ICML, IJCAI, BMVC, and Senior Program Committee member for AAAI and IJCAI, regular reviewer for top conferences and journals like TPAMI, IJCV, CVPR, ICML, ICCV. I have been elected among Top 2% Scientists worldwide (2023, 2024, 2025) by Stanford/Elsevier.</p>
+I am currently an assistant professor of computer science at Great Bay University, China, leading the YU Vision (YUV) Group. I was a Postdoctoral researcher at ROSE Lab, Nanyang Technological University, working with [Prof. Alex Kot](https://scholar.google.com/citations?user=UGZXLxIAAAAJ&hl=en). I also serve as an advisor on rPPG-based healthcare for [BioTrillion](https://www.biotrillion.com/team), USA. I received my PhD degree in CS at CMVS, University of Oulu in 2022 (supervised by [Prof. Guoying Zhao](https://scholar.google.com/citations?user=hzywrFMAAAAJ&hl=en)). I was a visiting scholar at TVG, University of Oxford, from July to November 2021, supervised by [Prof. Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en). My research interests include computer vision, biometric security, and multimodal learning.
 
-<p>[<a href="assets/WenhanLuo_CV.pdf" target="_blank">Curriculum Vitae</a>] [<a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=wenhan-luo-whluo" target="_blank">HKUST Profile</a>] </p>
-
-<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e>[Urgent Recuritment:] We are looking for a strong 26 spring/fall PhD candidate with expertise in efficient generative model (model acceleration, distillation, quantization, etc). RA towards PhD program is also highly welcomed.</font></p>
-
-# Research
-
-<p style="text-align:justify; text-justify:inter-ideograph;"> I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video generation and restoration/enhancement. My research is supported by the following sponsors. </p>
-
-
-<p><img src="../assets/logos/Samsung_Logo.png" width="180" hspace="10"/>
-<img src="../assets/logos/Tencent_Logo.png" width="200" hspace="10"/>
-<img src="../assets/logos/metax_logo.png" width="200" hspace="10"/>
-<img src="../assets/logos/Huawei_logo.png" width="100" hspace="10"/>
-<img src="../assets/logos/ByteDance_logo.png" width="200" hspace="10"/>
-<img src="../assets/logos/Tencent_AILAB_logo.jpg" width="200" hspace="10"/>
-<img src="../assets/logos/WienerIntelligence_logo.png" width="125" />
-<img src="../assets/logos/VideoRebirth.png" width="200" />
-<br>
-<img src="../assets/logos/NSFC_logo.png"  width="150" hspace="10"/>
-<img src="../assets/logos/GD_logo.png"  width="180" hspace="10"/>
-<img src="../assets/logos/SZ_logo.jpeg"  width="180" hspace="10"/>
-<img src="../assets/logos/QDBST.png" width="200" />
+<p> 
+    <a href="https://scholar.google.com/citations?user=ziHejLwAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+    <a href="https://github.com/ZitongYu" target="_blank" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://www.zhihu.com/people/yu-zi-tong-13" target="_blank" ><img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white"></a>
 </p>
 
+I am recruiting PostDoc (45W/year) and 特任研究员 (35W/year) and Research Assistant (Excellent master student) to join my research team. For prospective collaborators, please email me with your CV and research plan. 每年招收湾大-深大联培硕士，湾大-哈工深联培博士若干
 
-# Updates
-- 2025/11: &nbsp; I will serve as Area Chair for ICML 2026.
-- 2025/10: &nbsp; I will give a talk in SIGGRAPH Asia 2025: [The Asiagraphics Workshop on Intelligent Graphics](https://mp.weixin.qq.com/s/rJZH21hXi61ybiwtrdboJA).
-- 2025/09: &nbsp; We are organizing a workshop in AAAI 2026: [Consistency in Video Generative Models: from Clip to Wild](https://sites.google.com/view/aaai26-cvm/home). Welcome to participate to win the top prize of up to 200,000 CNY.
-- 2025/08: &nbsp; I will serve as Area Chair for ICLR 2026.
-- 2025/07: &nbsp; I will serve as Senior Program Committe (SPC) member for AAAI 2026.
-- 2025/07: &nbsp; Our [group webpage](https://c4g-hkust.github.io/) is now live.
-- 2025/07: &nbsp; I will give a talk in ChinaSI 2025 (中国空间智能大会).
-- 2025/06: &nbsp; I will serve as Senior Area Editor (S-AE) for IEEE Signal Processing Letters.
-- 2025/06: &nbsp; MaterialMVP and MOERL are accepted by ICCV 2025.
-- 2025/06: &nbsp; Our group secured funding from Tencent ([news](https://amc.hkust.edu.hk/news/research-project-selected-2025-tencent-ai-lab-rhino-bird)), ByteDance, Huawei, Wiener Intelligence, Video Rebirth, Qingdao Municipal Bureau of Science and Technology.
-- 2025/06: &nbsp; Paper to appear in TKDE.
-- 2025/05: &nbsp; Papers accepted by TVCG and ACL 2025.
-
-
-
-
-
-
-
+# News
+- [2024.11] Our PhysMamba paper is granted [CCBR 2024 Best Paper Honorable Mention Award (最佳论文提名奖)](https://drive.google.com/file/d/1DnuEuENHoEvMs2G6PwrRnq37ArajycrC/view?usp=sharing), Congra. to Chaoqi & Yiping！
+- [2024.09] Elected among World's Top 2% Scientists 2024 by Stanford University (入选2024全球前2%顶尖科学家榜单)
+- [2024.09] One paper on face forgery detection is accepted by IEEE TIFS
+- [2024.07] Our paper is awarded as the [Best Paper Candidate (最佳论文提名)](https://drive.google.com/file/d/1iaYTAUyUO_t7lfUldZ9V3TPZOY88YrRS/view?usp=drive_link) of [ICME 2024](https://2024.ieeeicme.org/awards/)
+- [2024.07] One paper on multimedia privacy is accepted by ACM MM 2024
+- [2024.07] One paper on manipulation detection is accepted by Cell Patterns
+- [2024.07] Four papers are accepted by ECCV 2024
+- [2024.06] One paper on generalized face anti-spoofing is accepted by IEEE TIFS
+- [2024.05] Organizing IJCB'24 Special Session '[Multimodal Human Behavior Understanding and Generation (MUG)](https://sites.google.com/view/ijcb-mug2024)'
+- [2024.05] Will serve as Area Chair (AC) for BMVC 2024
+- [2024.03] One paper on multimodal face anti-spoofing is accepted by IJCV
+- [2024.02] One paper on multimodal face anti-spoofing is accepted by CVPR 2024 as Highlight!
+- [2024.02] A project on visual anomaly detection is granted by Guangdong Provincial Regional Joint Fund - Regional Cultivation Project
+- [2024.02] Promoted to IEEE Senior Member
+- [2024.01] One paper on unsupervised facial rPPG is accepted by IEEE TMM
+- [2024.01] One paper on joint face spoofing and forgery detection is accepted by IEEE TDSC
+- [2023.12] Our CCBR'23 paper '[Detect Any Deepfake](https://github.com/laiyingxin2/DADF)' is granted IAPR Best Student Paper Award, Congra. to Yingxin！
+- [2023.10] Elected among World's Top 2% Scientists 2023 by Stanford University (入选2023全球前2%顶尖科学家榜单)
+- [2023.08] A project on facial rPPG is granted by Young Scientists Fund of the Natural Science Foundation of China
+- [2023.07] Two papers on face anti-spoofing and deception detection are accepted by ICCV 2023 (One as Oral!)
+- [2023.02] One paper on facial rPPG is accepted by CVPR 2023
+- [2023.02] One paper on facial rPPG is accepted by IJCV
+- [2023.01] Invited keynote talk for [WACV2023 - Workshop on Manipulation, Adversarial, and Presentation Attacks in Biometrics](https://sites.google.com/view/wacv2023-map-a/home)
 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
-  {% capture hidden_list %}
-  - 2025/05: &nbsp; Serve as Area Chair for BMVC 2025.
-  - 2025/04: &nbsp; Two papers are accepted by SIGGRAPH 2025.
-  - 2025/04: &nbsp; Serve as COI Coordinator for SIGGRAPH Asia 2025.
-  - 2025/04: &nbsp; I will serve as Area Chair for NeurIPS 2025.
-  - 2025/03: &nbsp; Content restoration works to appear in TPAMI and PR.
-  - 2025/03: &nbsp; I serve as Workshop Chair for [CVM 2025](http://iccvm.org/2025/).
-  - 2025/03: &nbsp; I will serve as Area Chair for ACM Multimedia 2025.
-  - 2025/02: &nbsp; Three papers accepted by CVPR 2025.
-  - 2025/01: &nbsp; I will serve as Associate Editor for IEEE Transactions on Image Processing.
-  - 2025/01: &nbsp; Two papers accepted by ICLR 2025.
-  - 2025/01: &nbsp; Uni-MoE accepted by TPAMI.
-  - 2024/12: &nbsp; Invited to serve as Area Chair for IJCAI 2025.
-  - 2024/12: &nbsp; Invited to serve as Area Chair for ICML 2025.
-  - ~~2024/11: &nbsp; Invited to serve as Senior Program Committe member (SPC) for IJCAI 2025.~~
-  - 2024/10: &nbsp; Awarded the CCF-Tencent Rhino-Bird Faculty Fund Excellence Award, see the [news](https://mp.weixin.qq.com/s/90ajLg_GxG5dsap7s4qasw).
-  - 2024/09: &nbsp; Two Papers accepted by NeurIPS 2024.
-  - 2024/09: &nbsp; Elected among Stanford/Elsevier Top 2% Scientists List 2024.
-  - 2024/09: &nbsp; Paper to appear in TKDE. 
-  - 2024/09: &nbsp; Paper to appear in IJCV.
-  - 2024/08: &nbsp; Paper to appear in TCSVT.
-  - 2024/07: &nbsp; Paper accepted by ACM MM 2024.
-  - 2024/07: &nbsp; Four papers accepted by ECCV 2024.
-  - 2024/06: &nbsp; Invited to serve as Senior Program Committe member (SPC) for AAAI 2025.
-  - 2024/05: &nbsp; Invited to serve as Area Chair for BMVC 2024.
-  - 2024/05: &nbsp; Paper accepted by ICML 2024.
-  - 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024](https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024, see the [award](https://cvlai.net/ntire/2024/NTIRE2024awards_certificates.pdf).
-  - 2024/04: &nbsp; Paper to appear in IEEE TGRS.
-  - 2024/03: &nbsp; Together with Samsung, we win the 2rd place in the competition of Few-shot RAW Image Denoising @ [MIPI2024](https://mipi-challenge.org/MIPI2024/) in conjunction with CVPR2024, see the [award](https://mipi-challenge.org/MIPI2024/award_certificates_2024.pdf).
-  - 2024/03: &nbsp; Paper to appear in TCSVT.
-  - 2024/03: &nbsp; Paper to appear in IJCV.
-  - 2024/02: &nbsp; Two papers accepted by CVPR 2024.
-  - 2024/02: &nbsp; Paper accepted by COLING 2024 (multi-modal in-context learning).
-  - 2024/02: &nbsp; I will be joining the Hong Kong University of Science and Technology (HKUST) as Associate Professor in 2024 spring/summer.
-  - 2024/01: &nbsp; Paper accepted by ICLR 2024.
-  - 2023/12: &nbsp; Paper to appear in TNNLS (blind face restoration).
-  - 2023/12: &nbsp; Invited to serve as Senior Program Committe member (SPC) for IJCAI 2024.
-  - 2023/11: &nbsp; Paper to appear in TCSVT (under-display camera face image restoration).
-  - 2023/10: &nbsp; Elected among Top 2% Scientists worldwide 2023 by Stanford University.
-  - 2023/09: &nbsp; Paper accepted by NeurIPS 2023 (punctuation-level attacks fooling text models).
-  - 2023/09: &nbsp; Paper to appear in TCSVT (image deblurring benchmark).
-  - 2023/09: &nbsp; Paper to appear in Pattern Recognition (image dehazing).
-  - 2023/07: &nbsp; I was granted the CCF-Tencent Rhino-Bird Faculty Research Fund, see the [news](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/tx/2023-07-31/794523.shtml).
-  - 2023/07: &nbsp; Paper to apppear in TCSVT (all-in-one weather-degraded image restoration).
-  - 2023/07:&nbsp; Four papers accepted by ICCV 2023.
-  - 2023/07:&nbsp; Invited to serve as a member of Senior Program Committe (SPC) for AAAI 2024.
-  - 2023/06:&nbsp; Paper accepted by IROS 2023 (hand interaction tracking).
-  - 2023/02:&nbsp; Paper accepted by CVPR 2023 (reflection removal against adversarial attacks).
-  - 2023/02:&nbsp; Elevation to IEEE Senior Member.
-  - 2023/01:&nbsp; Paper accepted by TNNLS (presentation attack detection).
-  - 2022/12:&nbsp; Invited to serve as a member of Senior Program Committe (SPC) for IJCAI 2023.
-  - 2022/11:&nbsp; Paper accepted by AAAI2023 (low-light image enhancement).
-  - 2022/11:&nbsp; TMM paper accepted (multi-modal retrieval).
-  - 2022/10:&nbsp; TMM paper accepted (image dehazing).
-  - 2022/09:&nbsp; Awarded the 2022 ACM China Rising Star Award (Guangzhou Chapter), see the [news](https://www.scholat.com/vpost.html?pid=199904).
-  - 2022/08:&nbsp; Paper accepted by WACV2023 (few-shot object counting).
-  - 2022/07:&nbsp; I joined Sun Yat-sen University as an associate professor.
-  - 2022/06:&nbsp; Paper accepted by ACM MM 2022 (multi-object tracking).
-  - 2022/05:&nbsp; TPAMI paper accepted (face hallucination).
-  - 2022/05:&nbsp; Paper accepted by IJCV (image deblurring survey).
-  - 2022/04:&nbsp; Paper accepted by IJCV (image deraining).
-  - 2022/03:&nbsp; Paper accepted by CVPR2022 (aesthetic text logo synthesis).
-  - 2022/01:&nbsp; TPAMI paper accepted (video deraining).
-  - 2021/09:&nbsp; TIP paper accepted (image deraining).
-  - 2021/08:&nbsp; Invited to serve as a Senior PC member for AAAI 2022.
-  - 2021/08:&nbsp; TIP paper accepted (image desnow).
-  - 2021/07:&nbsp; Paper accepted by ICCV2021 (image SR benchmarking).
-  - 2021/07:&nbsp; One paper (image deblur & SR) to appear in IEEE Transactions on Image Processing.
-  - 2021/06:&nbsp; TMM paper accepted (action recognition).
-  - 2021/05:&nbsp; Our work of active visual tracking is accepted by ICML2021.
-  - 2021/05:&nbsp; One paper of image dehazing to appear in IEEE Transactions on Image Processing.
-  - 2021/04:&nbsp; Our work of human image synthesis is accepted to appear in TPAMI.
-  - 2021/03:&nbsp; One paper to appear in IEEE Transactions on Geoscience and Remote Sensing.
-  - 2021/02:&nbsp; One paper to appear in IEEE Transactions on Multimedia.
-  - 2020/12:&nbsp; The paper "Multiple Object Tracking: A Literature Review" is accepted by Artificial Intelligence.
-  - 2020/12:&nbsp; Invited to serve as a Senior PC member for IJCAI 2021.
-  - 2020/11:&nbsp; One paper of pedestrian detection to appear in IEEE Transactions on Image Processing.
-  - 2020/09:&nbsp; An invited talk is given in SUSTech, hosted by [Prof. Xiaoying Tang](https://eee.sustc.edu.cn/?view=%E5%94%90%E6%99%93%E9%A2%96&jsid=18&lang=en).
-  - 2020/09:&nbsp; One paper of optical flow estimation to appear in IEEE Transactions on Image Processing.
-  - 2020/07:&nbsp; One paper to appear in ACM MM 2020 (Oral).
-  - 2020/07:&nbsp; One paper to appear in ECCV2020.
-  - 2020/06:&nbsp; One paper of multiple object tracking to appear in Pattern Recognition.
-  - 2020/05:&nbsp; We are organizing a special issue of action recognition and detection on CVIU. Submission deadline is Sep 15th. See the [CFP](https://www.journals.elsevier.com/computer-vision-and-image-understanding/call-for-papers/modeling-methodology-and-applications-of-action-recognition) if interested
-  - 2020/02:&nbsp; Two papers (one oral + one poster) to appear in CVPR2020.
-  - 2019/10:&nbsp; One paper to appear in TPAMI, entitled "AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking".
-  - 2019/09:&nbsp; Code and dataset of our ICCV2019 paper for motion imitation, appearance transfer and novel view synthesis are released. Check the project page [here](https://svip-lab.github.io/project/impersonator).
-  - 2019/09:&nbsp; One paper to appear in IJCV.
-  - 2019/07:&nbsp; One paper to appear in ICCV2019.
-  - 2019/07:&nbsp; The code of our ACL2019 paper is released. Check it [here](https://github.com/zfchenUnique/WSSTG).
-  - 2019/07:&nbsp; The code of our ICLR2019 paper is released. Check it [here](https://github.com/zfw1226/active_tracking_rl).
-  - 2019/05:&nbsp; Join Amazon in California as a research scientist.
-  - 2019/06:&nbsp; Our CVPR paper entitled "Learning to Compose Dynamic Tree Structures for Visual Context" is selected as one of the best paper finalists (50 out of the 1294 accepted papers in CVPR2019).
-  - 2019/05:&nbsp; One paper of video grounding to appear in ACL2019 as a long paper, and oral presentation.
-  - 2019/05:&nbsp; Serve as program committee member of the workshop of [Vision Meets Drones 2019: A Challenge](http://aiskyeye.com/) in conjunction with ICCV2019.
-  - 2019/03:&nbsp; Four papers (2 orals + 2 posters) to appear in CVPR2019.
-  - 2019/02:&nbsp; Serve as program committee member of the [4th BMTT MOT Challenge Workshop](https://motchallenge.net/workshops/bmtt2019/index.html) and the [2nd Workshop and Challenge on Target Re-identification and Multi-Target Multi-Camera Tracking](https://reid-mct.github.io/2019/) in conjunction with CVPR2019.
-  - 2019/02:&nbsp; The code of our CVPR 2018 paper is released. Check it here.
-  - 2019/01:&nbsp; Our work of "[End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning](https://arxiv.org/abs/1808.03405)" is accepted by TPAMI.
-  - 2018/12:&nbsp; One paper to appear in ICLR2019. Congratulations to Fangwei Zhong.
-  - 2018/11:&nbsp; One paper to appear in [NIPS2018 workshop on Deep Reinforcement Learning](https://sites.google.com/view/deep-rl-workshop-nips-2018/home).
-  - 2018/11:&nbsp; One paper to appear in AAAI2019. Congratulations to Kaihao Zhang.
-  - 2018/10:&nbsp; Welcome Tianrui Liu (Imperial College London) on board as a research intern.
-  - 2018/09:&nbsp; The code of our ICML2018 paper is released. Check it [here](https://sites.google.com/site/whluoimperial/active_tracking_icml2018).
-  - 2018/09:&nbsp; The code of our ECCV2018 paper "Bi-Real Net" is released. Check it [here](https://github.com/liuzechun/Bi-Real-net).
-  - 2018/08:&nbsp; Our work of video deblur is accepted by IEEE Transactions on Image Processing. Congratulations to Kaihao Zhang.
-  - 2018/08:&nbsp; One paper of multiple object tracking is accepted by IEEE Transactions on Image Processing.
-  - 2018/07:&nbsp; The dataset for our CVPR2018 paper, Sky Scene is released. See our [project page](https://sites.google.com/site/whluoimperial/mdgan) for details.
-  - 2018/07:&nbsp; One paper to appear in ECCV2018. Congratulations to Zechun Liu.
-  - 2018/05:&nbsp; Our work of End-to-end Active Object Tracking via Reinforcement Learning is accepted by ICML2018. The camera-ready version will come soon.
-  - 2018/05:&nbsp; Serve as a member of the advisory committee of the workshop of [Vision Meets Drone: A Challenge](http://aiskyeye.com/) (VisDrone2018, for short) in conjunction with ECCV2018.
-  - 2018/04:&nbsp; Welcome Jia Wan (NWPU) on board as an intern.
-  - 2018/02:&nbsp; One paper to appear in CVPR2018. Congratulations to Wei Xiong.
-  - 2018/01:&nbsp; Welcome our intern Zechun Liu (HKUST) on board.
-  - 2017/10:&nbsp; Welcome Yiming Chen (Imperial College London) on board as an intern in Tencent AI Lab.
-  - 2017/08:&nbsp; Welcome Kaihao Zhang on board as intern in Tencent AI Lab. Kaihao is from Australian National University and will work close with me for about six months.
-  - 2017/06:&nbsp; Welcome Weiyue Su and Wei Xiong on board as intern in Tencent AI Lab. Weiyue is from South China University of Technology. Wei is from Wuhan University.
-  - 2017/05:&nbsp; Serve as a program committee member of the First [Joint BMPP-PETS Workshop on Tracking and Surveillance](https://motchallenge.net/workshops/bmtt-pets2017/index.html) in conjunction with CVPR2017.
-  - 2017/04:&nbsp; One paper to appear in CVPR2017.
-  - 2016/07:&nbsp; Join Tencent AI Lab as a research scientist.
-  - 2016/06:&nbsp; Pass viva exam and obtained the Ph.D. degree, examined by [Tao (Tony) Xiang](https://www.eecs.qmul.ac.uk/~txiang/) from Queen Mary University of London.
-  - 2016/05:&nbsp; Serve as a program committee member of the workshop [Benchmarking Multi-Target Tracking: MOTChallenge](https://motchallenge.net/workshops/bmtt2016/) in conjunction with ECCV2016.
-  - 2015/02:&nbsp; Start internship in Microsoft Research Asia with [Dr. David Wipf](http://www.davidwipf.com/) (from Feb 2015 to June 2015).
-  {% endcapture %}
-  {{ hidden_list | markdownify }}
 </div>
 <a onclick="toggleList()" id='less' style='display:none;'>Show less</a>
 <script>
@@ -217,231 +81,136 @@ function toggleList() {
 </script>
 
 
-# Recent Work [**[More]**](assets/publication.html)
-<table
-    style="width:100%;max-width:900px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0px;">
-    <tbody>
+# Publications
+( # equal contribution, * corresponding author)
 
-    <tr>
-       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/VACoT.gif' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models</papertitle>,
-                  <br>Zixuan Ye, Quande Liu, Cong Wei, Yuanxing Zhang, Xintao Wang, Pengfei Wan, Kun Gai, Wenhan Luo,<br>
-                  <i>arXiv:2512.19686.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2512.19686" target="_blank">arXiv</a>]
-                  [<a href="https://zixuan-ye.github.io/VACoT/" target="_blank">Project Page</a>]
-                  <p></p>
-      </td>
-    </tr>
+## Book Chapter
+- [2] **Zitong Yu**, Chenxu Zhao and Zhen Lei. "**Face Presentation Attack Detection**". Handbook of Face Recognition (3rd Ed.), 2023
+- [1] **Zitong Yu**, Jukka Komulainen, Xiaobai Li, and Guoying Zhao. "**Review of Face Presentation Attack Detection Competitions**." Handbook of Biometric Anti-Spoofing (3rd Ed.), Springer, 2023
 
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <video src="../assets/multimedia/anytalker.mp4" width="320" controls="" loop=""></video>
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement</papertitle>,
-                  <br>Zhizhou Zhong, Yicheng Ji, Zhe Kong, Yiying Liu, Jiarui Wang, Jiasun Feng, Lupeng Liu, Xiangyi Wang, Yanjia Li, Yuqing She, Ying Qin, Huan Li, Shuiyang Mao, Wei Liu, Wenhan Luo,<br>
-                  <i>	arXiv:2511.23475.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2511.23475" target="_blank">arXiv</a>]
-                  [<a href="https://hkust-c4g.github.io/AnyTalker-homepage/" target="_blank">Project Page</a>]
-                  [<a href="https://github.com/HKUST-C4G/AnyTalker" target="_blank">Code</a>]
-                  [<a href="https://huggingface.co/spaces/C4G-HKUST/AnyTalker" target="_blank">Gradio</a>]
-                  [<a href="https://huggingface.co/zzz66/AnyTalker-1.3B/tree/main" target="_blank">Hugging Face Model</a>]
-                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/HKUST-C4G/AnyTalker?style=social">
-      </td>
-    </tr>
+## Journals
+- [20] Yaning Zhang#, **Zitong Yu#**, Xiaobin Huang, Linlin Shen, and Jianfeng Ren. "**GenFace: A Large-Scale Fine-Grained Face Forgery Benchmark and Cross Appearance-Edge Learning**", IEEE Transactions on Information Forensics and Security (TIFS), 2024
+- [19] Xun Lin, Wenzhong Tang, Haoran Wang, Yizhong Liu, Yakun Ju, Shuai Wang* and **Zitong Yu***. "**Exposing Image Splicing Traces in Scientific Publications via Uncertainty-guided Refinement**". Patterns, Cell, 2024
+- [18] Rizhao Cai, **Zitong Yu***, Chenqi Kong, Haoliang Li, Changsheng Chen, Yongjian Hu and Alex Kot. "**S-Adapter: Generalizing Vision Transformer for Face Anti-Spoofing with Statistical Tokens**". IEEE Transactions on Information Forensics and Security (TIFS), 2024
+- [17] Daiyuan Li, Guo Chen, Xixian Wu, **Zitong Yu*** and Mingkui Tan*. "**Cross-stage relation extraction and presentation attack material perception for face anti-spoofing**". Neural Networks, 2024
+- [16] **Zitong Yu**, Rizhao Cai, Yawen Cui, Xin Liu, Yongjian Hu and Alex Kot. "**Rethinking Vision Transformer and Masked Autoencoder in Multimodal Face Anti-Spoofing**". International Journal of Computer Vision (IJCV), 2024
+- [15] Xin Liu, Yuting Zhang, **Zitong Yu***, Hao Lu, Huanjing Yue and Jingyu Yang*. "**rPPG-MAE: Self-supervised Pre-training with Masked Autoencoders for Remote Physiological Measurement**". IEEE Transactions on Multimedia (TMM), 2024
+- [14] **Zitong Yu**, Rizhao Cai, Zhi Li, Wenhan Yang, Jingang Shi, and Alex C Kot. "**Benchmarking Joint Face Spoofing and Forgery Detection with Visual and Physiological Cues**". IEEE Transactions on Dependable and Secure Computing (TDSC), 2024
+- [13] **Zitong Yu**, Yuming Shen, Jingang Shi, Hengshuang Zhao, Yawen Cui, Jiehua Zhang, Philip Torr and Guoying Zhao. "**PhysFormer++: Facial Video-based Physiological Measurement with SlowFast Temporal Difference Transformer**". International Journal of Computer Vision (IJCV), 2023
+- [12] Zezheng Wang#, **Zitong Yu#**, Xun Wang, Yunxiao Qin, Jiahong Li, Chenxu Zhao, Zhen Lei, Xin Liu, Size Li and Zhongyuan Wang. "**Consistency Regularization for Deep Face Anti-Spoofing**", IEEE Transactions on Information Forensics and Security (TIFS), 2022
+- [11] **Zitong Yu**, Yunxiao Qin, Xiaobai Li, Chenxu Zhao, Zhen Lei, and Guoying Zhao. "**Deep Learning for Face Anti-Spoofing: A Survey**", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022
+- [10] Ajian Liu#, Chenxu Zhao#, **Zitong Yu#**, Jun Wan, Anyang Su, Xing Liu, Zichang Tan, Sergio Escalera, Junliang Xing, Yanyan Liang, Guodong Guo, Zhen Lei, Stan Z Li, and Du Zhang. "**Contrastive context-aware learning for 3d high-fidelity mask face presentation attack detection**", IEEE Transactions on Information Forensics and Security (TIFS), 2022
+- [9] Mingxin Liu, Jiong Mu*, **Zitong Yu***, Kun Ruan, Baiyi Shu, and Jie Yang. "**Adversarial learning and decomposition-based domain generalization for face anti-spoofing**." Pattern Recognition Letters (PRL), 2021
+- [8] **Zitong Yu***, Xiaobai Li*, and Guoying Zhao. "**Facial Video-based Physiological Signal Measurement: Recent Advances and Affective Applications**." IEEE Signal Processing Magazine (SPM), 2021
+- [7] Yunxiao Qin, **Zitong Yu**, Longbin Yan, Zezheng Wang, Chenxu Zhao, and Zhen Lei. "**Meta-Teacher For Face Anti-Spoofing**." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021
+- [8] Dong Huang, Xiaoyi Feng, Haixi Zhang, **Zitong Yu**, Jinye Peng, Guoying Zhao, and Zhaoqiang Xia. "**Spatio-Temporal Pain Estimation Network with Measuring Pseudo Heart Rate Gain**." IEEE Transactions on Multimedia (TMM), 2021
+- [6] **Zitong Yu**, Xiaobai Li, Pichao Wang, and Guoying Zhao. "**TransRPPG: Remote Photoplethysmography Transformer for 3d Mask Face Presentation Attack Detection**." IEEE Signal Processing Letters (SPL), 2021
+- [5] **Zitong Yu#**, Benjia Zhou#, Jun Wan, Pichao Wang, Haoyu Chen, Xin Liu, Stan Z Li, and Guoying Zhao. "**Searching Multi-Rate and Multi-Modal Temporal Enhanced Networks for Gesture Recognition**." IEEE Transactions on Image Processing (TIP), 2021
+- [4] **Zitong Yu**, Xiaobai Li, Jingang Shi, Zhaoqiang Xia, and Guoying Zhao. "**Revisiting Pixel-Wise Supervision for Face Anti-Spoofing**." IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2021
+- [3] **Zitong Yu**, Jun Wan, Yunxiao Qin, Xiaobai Li, Stan Z. Li, and Guoying Zhao. "**NAS-FAS: Static-Dynamic Central Difference Network Search for Face Anti-Spoofing**." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020
+- [2] **Zitong Yu**, Xiaobai Li, Xuesong Niu, Jingang Shi, and Guoying Zhao. "**AutoHR: A Strong End-to-end Baseline for Remote Heart Rate Measurement with Neural Searching**." IEEE Signal Processing Letters, 2020
+- [1] Jingang Shi, Iman Alikhani, Xiaobai Li, **Zitong Yu**, Tapio Seppänen, and Guoying Zhao. "**Atrial fibrillation detection from face videos by fusing subtle variations**." IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2019
 
+## Conferences
+- [24] Xun Lin, Yi Yu, **Zitong Yu***, Ruohan Meng, Jiale Zhou, Ajian Liu, Yizhong Liu, Shuai Wang, Wenzhong Tang, Zhen Lei, Alex Kot. "**HideMIA: Hidden Wavelet Mining for Privacy-Enhancing Medical Image Analysis**", ACM MM 2024
+- [23] Qilang Ye, **Zitong Yu***, Rui Shao, Xinyu Xie, Philip Torr, Xiaochun Cao. "**CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios**", ECCV 2024
+- [22] Kaishen Yuan#, **Zitong Yu#***, Xin Liu*, Weicheng Xie, Huanjing Yue, Jingyu Yang. "**AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors**", ECCV 2024
+- [21] Xinxu Ge, Xin Liu*, **Zitong Yu***, Jingang Shi, Chun Qi, Jie Li, Heikki Kälviäinen. "**DiffFAS: Face Anti-Spoofing via Generative Diffusion Models**", ECCV 2024
+- [20] Qingzheng Huang, Xilin He, Xiaole Xian, Qinliang Lin, Weicheng Xie, Siyang Song, Linlin Shen, **Zitong Yu**. "**MTaDCS: Moving Trace and Feature Density-based Confidence Sample Selection under Label Noise**", ECCV 2024
+- [19] Xun Lin, Shuai Wang, Rizhao Cai, Yizhong Liu, Ying Fu, **Zitong Yu***, Wenzhong Tang, Alex Kot. "**Suppress and Balance: Towards Generalized Multi-Modal Face Anti-Spoofing**", CVPR 2024 (Highlight)
+- [18] Rizhao Cai, Yawen Cui, Zhi Li, **Zitong Yu***, Haoliang Li, Yongjian Hu, Alex Kot. "**Rehearsal-Free Domain Continual Face Anti-Spoofing: Generalize More and Forget Less**", ICCV 2023 (Oral)
+- [17] Xiaobao Guo, Nithish Muthuchamy Selvaraj, **Zitong Yu***, Wai-Kin Adams Kong, Bingquan Shen, Alex Kot. "**Audio-Visual Deception Detection: DOLOS Dataset and Parameter-Efficient Crossmodal Learning**", ICCV 2023
+- [16] Hao Lu, **Zitong Yu**, Xuesong Niu, Ying-Cong Chen. "**Neuron Structure Modeling for Generalized Remote Physiological Measurement**", CVPR 2023
+- [15] Jianwei Li#, **Zitong Yu#**, Jingang Shi. "**Learning Motion-Robust Remote Photoplethysmography through Arbitrary Resolution Videos**", AAAI 2023
+- [14] Jingang Shi, Yusi Wang, Songlin Dong,Changxin Wang, Xiaopeng Hong, **Zitong Yu ***, Fei Wang, Yihong Gong. "**IDPT: Interconnected Dual Pyramid Transformer for Face Super-Resolution**", IJCAI 2022
+- [13] **Zitong Yu**, Yuming Shen, Jingang Shi, Hengshuang Zhao, Philip Torr, Guoying Zhao. "**PhysFormer: Facial Video-based Physiological Measurement with Temporal Difference Transformer**", CVPR 2022
+- [12] Zhuo Wang, Zezheng Wang, **Zitong Yu**, Weihong Deng, Jiahong Li, Tingting Gao, Zhongyuan Wang . "**Domain Generalization via Shuffled Style Assembly for Face Anti-Spoofing**", CVPR 2022
+- [11] Haoyu Chen, Hao Tang, **Zitong Yu**, Nicu Sebe, Guoying Zhao. "**Geometry-Contrastive Transformer for Generalized 3D Pose Transfer**", AAAI 2022
+- [10] Zhuo Su, Wenzhe Liu, **Zitong Yu**, Dewen Hu, Qing Liao, Qi Tian, Matti Pietikäinen, and Li Liu. "**Pixel Difference Networks for Efficient Edge Detection**", ICCV 2021 (Oral)
+- [9] **Zitong Yu**, Yunxiao Qin, Hengshuang Zhao, Xiaobai Li, and Guoying Zhao. "**Dual-Cross Central Difference Network for Face Anti-Spoofing**." IJCAI 2021
+- [8] Ruijing Yang, Ziyu Guan, **Zitong Yu**, Guoying Zhao, Xiaoyi Feng and Jinye Peng. "**Non-contact Pain Recognition from Video Sequences with Remote Physiological Measurements Prediction**." IJCAI 2021
+- [7] Xin Liu , Henglin Shi , Haoyu Chen, **Zitong Yu**, Xiaobai Li, and Guoying Zhao. "**iMiGUE: An Identity-free Video Dataset for Micro-Gesture Understanding and Emotion Analysis**." CVPR 2021
+- [6] **Zitong Yu**, Xiaobai Li, Xuesong Niu, Jingang Shi, and Guoying Zhao. "**Face anti-spoofing with human material perception**." ECCV 2020
+- [5] Xuesong Niu, **Zitong Yu**, Hu Han, Xiaobai Li, Shiguang Shan, and Guoying Zhao. "**Video-based Remote Physiological Measurement via Cross-verified Feature Disentangling**." ECCV 2020 (Oral)
+- [4] **Zitong Yu**, Chenxu Zhao, Zezheng Wang, Yunxiao Qin, Zhuo Su, Xiaobai Li, Feng Zhou, and Guoying Zhao. "**Searching central difference convolutional networks for face anti-spoofing**." CVPR 2020
+- [3] Zezheng Wang, **Zitong Yu**, Chenxu Zhao, Xiangyu Zhu, Yunxiao Qin, Qiusheng Zhou, Feng Zhou, and Zhen Lei. "**Deep spatial gradient and temporal depth learning for face anti-spoofing**." CVPR 2020 (Oral)
+- [2] Yunxiao Qin, Chenxu Zhao, Xiangyu Zhu, Zezheng Wang, **Zitong Yu**, Tianyu Fu, Feng Zhou, Jingping Shi, and Zhen Lei. "**Learning meta model for zero-and few-shot face anti-spoofing**." AAAI 2020 (Spotlight)
+- [1] **Zitong Yu#**, Wei Peng#, Xiaobai Li, Xiaopeng Hong, and Guoying Zhao. "**Remote heart rate measurement from highly compressed facial videos: an end-to-end deep learning solution with video enhancement**." ICCV 2019
 
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/unic_demo.gif' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>UNIC: Unified In-Context Video Editing</papertitle>,
-                  <br>Zixuan Ye, Xuanhua He, Quande Liu, Qiulin Wang, Xintao Wang, Pengfei Wan, Di Zhang, Kun Gai, Qifeng Chen, Wenhan Luo,<br>
-                  <i>arXiv:2506.04216.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2506.04216" target="_blank">arXiv</a>]
-                  [<a href="https://zixuan-ye.github.io/UNIC/" target="_blank">Project Page</a>]
-      </td>
-    </tr>
+# Research Grants
+- Young Scientists Fund of the Natural Science Foundation of China (PI), 300k RMB, Grant No. 62306061, 2024-01 to 2026-12.
+- Open Project of National Engineering Laboratory for Big Data System Computing Technology, Shenzhen University, (PI), 50k RMB, Grant No. SZU-BDSC-OF2024-02, 2024-01 to 2025-12.
+- Guangdong Provincial Regional Joint Fund - Regional Cultivation Project (PI), 300k RMB, Grant No. 2023A1515140037, 2024-01 to 2026-12.
 
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <video src="../assets/multimedia/multitalk.mp4" width="320" controls="" loop=""></video>
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation</papertitle>,
-                  <br>Zhe Kong, Feng Gao, Yong Zhang, Zhuoliang Kang, Xiaoming Wei, Xunliang Cai, Guanying Chen, Wenhan Luo,<br>
-                  <i>Neural Information Processing Systems (NeurIPS), 2025.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2505.22647" target="_blank">arXiv</a>]
-                  [<a href="https://meigen-ai.github.io/multi-talk/" target="_blank">Project Page</a>]
-                  [<a href="https://github.com/MeiGen-AI/MultiTalk/" target="_blank">Code</a>]
-                  [<a href="https://huggingface.co/MeiGen-AI/MeiGen-MultiTalk" target="_blank">Hugging Face Model</a>]
-                  [<a href="https://huggingface.co/spaces/fffiloni/Meigen-MultiTalk" target="_blank">Gradio</a>]
-                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social">
-      </td>
-    </tr>
+# Honors & Awards
+- Recipient of Best Paper Honorable Mention Award (最佳论文提名) of CCBR 2024
+- Recipient of Best Paper Candidate (最佳论文提名) of ICME 2024
+- Recipient of IAPR Best Student Paper Award of CCBR'23 (IAPR最佳学生论文奖)
+- Recipient of World's Top 2% Scientists 2023-2024 (连续两年入选（2023-2024）斯坦福全球前2%顶尖科学家榜单)
+- Recipient of the second prize of the IEEE Finland Jt. Chapter SP/CAS Best Paper Award (2022)
+- Recipient of Chinese Government Award 2021 for Outstanding Self-financed Students Abroad (国家优秀自费留学生奖)
+- Recipient of IEEE Finland Section best student conference paper award 2020
+- 1st Place in the ChaLearn multi-modal face anti-spoofing attack detection challenge @ CVPR 2020
+- 2nd Place on Action Recognition Track of ECCV 2020 VIPriors Challenges
+- 3rd Place on the "WIN THE FUTURE" 2021 Venture Contest for International Entrepreneurs (Finland Contest Area)
+- Master Program Scholarship of Pays de la Loire, France
 
-      <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <video src="../assets/multimedia/freecure_neurips25.mp4" width="320" controls="" loop=""></video>
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>Foundation Cures Personalization: Recovering Facial Personalized Models' Prompt Consistency</papertitle>,
-                  <br>Yiyang Cai, Zhengkai Jiang, Yulong Liu, Chunyang Jiang, Wei Xue, Yike Guo, Wenhan Luo,<br>
-                  <i>Neural Information Processing Systems (NeurIPS), 2025.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2411.15277" target="_blank">PDF</a>]
-                  [<a href="https://freecure.github.io/" target="_blank">Project Page</a>]
-                  [<a href="https://github.com/YIYANGCAI/FreeCure" target="_blank">Code</a>]
-                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/YIYANGCAI/FreeCure?style=social">
-         <p></p>
-      </td>
-    </tr>
+# Membership
+- IEEE Senior Member, CCF/CSIG/CAAI/CAA Member
+- CCF东莞分部秘书长
+- 中国图象图形学会数字媒体取证与安全专委会委员，中国自动化学会模式识别与机器智能专业委员会委员
 
+# Organizing scientific activities
+- Co-organizing 3D High-Fidelity Mask Face Presentation Attack Detection Challenge ICCV2021
+- Co-organizing the first Challenge on Remote Physiological Signal Sensing (RePSS) with CVPR 2020
 
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <video src="../assets/multimedia/infinitetalk.mp4" width="320" controls="" loop=""></video>
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing</papertitle>,
-                  <br>Shaoshu Yang*, Zhe Kong*, Feng Gao*, Meng Cheng*, Xiangyu Liu*, Yong Zhang, Zhuoliang Kang, Wenhan Luo, Xunliang Cai, Ran He, Xiaoming Wei,<br>
-                  <i>arXiv:2508.14033.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2508.14033" target="_blank">arXiv</a>]
-                  [<a href="https://meigen-ai.github.io/InfiniteTalk/" target="_blank">Project Page</a>]
-                  [<a href="https://github.com/MeiGen-AI/InfiniteTalk" target="_blank">Code</a>]
-                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/MeiGen-AI/InfiniteTalk?style=social">
-      </td>
-    </tr>
+# Invited talks
+- KEYNOTE 'Facial Physiological and Emotional Analysis', ACM MM2024 - Multimodal and Responsible Affective Computing (MRAC 2023), 01.11.2024
+- '多模态大模型幻觉与鲁棒的一些思考', CCBR 2024 - 生物特征安全论坛, 24.11.2024
+- '垂类视觉基础模型的一些思考', Visual Intelligence“视觉基础模型”专刊交流会, 21.07.2024
+- '可信人脸生理感知与安全', SAILING讲坛第十四期，广东省安全智能新技术重点实验室, 24.06.2024
+- '迈向可信赖的人脸生理感知和安全系统', 第三届多媒体智能安全学术研讨会 (隐者联盟∙洪都论道 MAS'2024), 14.04.2024
+- KEYNOTE 'Towards Trustworthy Face Physiological Sensing and Security Systems', WACV2023 - Workshop on Manipulation, Adversarial, and Presentation Attacks in Biometrics, 07.01.2023
+- 'Towards Trustworthy Face Physiological Sensing and Security Systems', Valse Webinar, 14.12.2022
+- 'Non-Contact Human Sensing and Biometric Security’, Hong Kong Baptist University, 02.11.2021
+- 'Non-Contact Human Sensing and Biometric Security’, Southern University of Science and Technology, 08.11.2021
+- 'Face Anti-Spoofing Attack Detection Techniques’, University of Jyväskylä, 28.03.2022
 
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/materialmvp.gif' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion</papertitle>,
-                  <br>Zebin He, Mingxin Yang, Shuhui Yang, Yixuan Tang, Tao Wang, Kaihao Zhang, Guanying Chen, Yuhong Liu, Jie Jiang, Chunchao Guo, Wenhan Luo,<br>
-                  <i>Proc. of International Conference on Computer Vision (ICCV), Hawaii, USA, 2025. (<strong><font color="red">Highlight</font></strong>)</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2503.10289" target="_blank">arXiv</a>]
-                  [<a href="https://zebinhe.github.io/MaterialMVP/" target="_blank">Project Page</a>]
-                  [<a href="https://github.com/ZebinHe/MaterialMVP" target="_blank">Code</a>]
-                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/ZebinHe/MaterialMVP?style=social">
-      </td>
-    </tr>
+# Invited Journal Reviewer
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (since 2021)
+- International Journal of Computer Vision (since 2022)
+- IEEE Transactions on Image Processing (since 2020)
+- IEEE Transactions on Neural Networks and Learning Systems (since 2021)
+- IEEE Transactions on Information Forensics and Security (since 2021)
+- IEEE Transactions on Dependable and Secure Computing (since 2021)
+- IEEE Transactions on Circuits and Systems for Video Technology (since 2020)
+- IEEE Transactions on Biometrics, Behavior, and Identity Science (since 2020)
+- Pattern Recognition & Pattern Recognition Letters (since 2020)
+- IEEE Journal of Biomedical and Health Informatics (since 2020)
+- IET Biometrics (since 2022)
+- Security and Communication Networks (since 2021)
+- Journal of Visual Communication and Image Representation (since 2021)
+- ACM Transactions on Multimedia Computing, Communications and Applications (TOMM) (since 2021)
 
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/moerl_iccv2025.png' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration</papertitle>,
-                  <br>Tao Wang, Peiwen Xia, Bo Li, Peng-Tao Jiang, Zhe Kong, Kaihao Zhang, Tong Lu, Wenhan Luo,<br>
-                  <i>Proc. of International Conference on Computer Vision (ICCV), Hawaii, USA, 2025.</i>
-                  <br>
-      </td>
-    </tr>
+# Associate Editor
+- [Frontiers in Artificial Intelligence](https://loop.frontiersin.org/people/2376790/overview) (IF=4.0)
 
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/dam-vsr-siggraph.jpg' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution</papertitle>,
-                  <br>Zhe Kong, Le Li, Yong Zhang, Feng Gao, Shaoshu Yang, Tao Wang, Kaihao Zhang, Zhuoliang Kang, Xiaoming Wei, Guanying Chen, Wenhan Luo,<br>
-                  <i>ACM SIGGRAPH, 2025.</i>
-                  <br>
-                  [<a href="" target="_blank">PDF</a>]
-                  [<a href="https://kongzhecn.github.io/projects/dam-vsr/" target="_blank">Project Page</a>]
-                  [<a href="https://github.com/kongzhecn/DAM-VSR" target="_blank">Code</a>]
-                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/kongzhecn/DAM-VSR?style=social">
-      </td>
-    </tr>
+# Guest Editors
+- Special Issue "Deep Learning Approach for Secure and Trustworthy Biometric System" on MDPI Electronics (IF=2.69)
 
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/mbtaylorv2.jpg' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration</papertitle>,
-                  <br>Zhi Jin, Yuwei Qiu, Kaihao Zhang, Hongdong Li, Wenhan Luo,<br>
-                  <i>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), vol. 47, pp. 5990–6005, 2025.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2501.04486" target="_blank">arXiv</a>]
-                  [<a href="https://github.com/FVL2020/MB-TaylorFormerV2" target="_blank">Code</a>]
-      </td>
-    </tr>
+# Invited Conference Area Chair
+- ICME'23, BMVC'24, IJCB'24, AAAI'25 (SPC)
 
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/stylemaster.gif' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>StyleMaster: Stylize Your Video with Artistic Generation and Translation</papertitle>,
-                  <br>Zixuan Ye, Huijuan Huang, Xintao Wang, Pengfei Wan, Di Zhang, Wenhan Luo,<br>
-                  <i>Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2025.</i>
-                  <br>
-                  [<a href="https://arxiv.org/pdf/2412.07744" target="_blank">arXiv</a>]
-                  [<a href="https://github.com/KwaiVGI/StyleMaster" target="_blank">Github</a>]
-                  [<a href="https://zixuan-ye.github.io/stylemaster/" target="_blank">Project Page</a>]
-                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/KwaiVGI/StyleMaster?style=social">
-      </td>
-    </tr>
+# Invited Conference Reviewer
+- CVPR'25
+- AAAI'24, ICLR'24, CVPR'24, IJCAI'24, ECCV'24, PRCV'24, NeurIPS'24
+- AAAI'23, CVPR'23, IJCAI'23, ICCV'23, IJCB'23, NeurIPS'23, SIGGRAPH Asia'23, PRCV'23
+- AAAI'22, CVPR'22, ICME'22, IJCAI'22, ECCV'22, PRCV'22
+- ICME'21, ICCV'21
 
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/pose_animation.gif' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>Towards Multiple Character Image Animation Through Enhancing Implicit Decoupling</papertitle>,
-        <br>Jingyun Xue, Hongfa Wang, Qi Tian, Yue Ma, Andong Wang, Zhiyuan Zhao, Shaobo Min, Wenzhe Zhao, Kaihao Zhang, Heung-Yeung Shum, Wei Liu, Mengyang Liu, Wenhan Luo,<br>
-        <i>International Conference on Learning Representations (ICLR), 2025.</i>
-        <br>
-        [<a href="https://openreview.net/forum?id=aqlzXgXwWa" target="_blank">PDF</a>]
-        [<a href="https://multi-animation.github.io/" target="_blank">Project Page</a>]
-        [<a href="https://cloud.tencent.com/product/vclm" target="_blank">API in Tencent Cloud</a>]
-      </td>
-    </tr>
-
-  </tbody>
-</table>
-
-# Experience
-
-I have studied/interned/worked in the following affiliations.
-
-
-<a href="https://hkust.edu.hk/"><img src='../assets/logos/HKUST.png' align="center" width="40" hspace="5"></a>
-<a href="https://en.wikipedia.org/wiki/Sun_Yat-sen_University"><img src='../assets/logos/SYSU.png' align="center" width="60" hspace="5"></a>
-<a href="https://en.wikipedia.org/wiki/Tencent"><img src='../assets/logos/Tencent.png' align="center" width="80" hspace="5"></a>
-<a href="https://en.wikipedia.org/wiki/Amazon_(company)"><img src='../assets/logos/Amazon.png' align="center" width="70" hspace="5"></a>
-<a href="https://research.ibm.com/"><img src='../assets/logos/IBM.png' align="center" width="80" hspace="5"></a>
-<a href="https://www.imperial.ac.uk/"><img src='../assets/logos/Imperial.png' align="center" width="50" hspace="5"></a>
-<a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"><img src='../assets/logos/MSRA.png' align="center" width="100" hspace="5"></a>
-<a href="http://english.ia.cas.cn/"><img src='../assets/logos/CASIA.jpg' align="center" width="60" hspace="5"></a>
-<a href="https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology"><img src='../assets/logos/HUST.png' align="center" width="80" hspace="5"></a>
-<img src='../assets/logos/Middleschool.jpg' align="center" width="60" hspace="5">
-
+# Teaching
+- Teaching assistant (TA) for Computer Graphics (521140S), University of Oulu, Spring 2020, 2021
 
  <p class="footer">
-                  <span id="busuanzi_container_site_pv"># Views: <span id="busuanzi_value_site_pv"></span> (Since Dec 11, 2024)</span>
-                </p>
-
-<script>
-function pubtoggleList() {
-	var list = document.getElementById('pubhiddenList');
-	list.style.display = list.style.display === 'none' ? 'block' : 'none';
-	var button = document.getElementById('pubmore');
-	button.style.display = button.style.display === 'none' ? 'block' : 'none';
-	var buttom_less = document.getElementById('publess');
-	buttom_less.style.display = buttom_less.style.display === 'none' ? 'block' : 'none';
-}
-</script>
+    <span id="busuanzi_container_site_pv"># Views: <span id="busuanzi_value_site_pv"></span></span>
+</p>
