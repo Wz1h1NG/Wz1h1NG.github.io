@@ -44,7 +44,7 @@ redirect_from:
 </p>
 
 <span class='anchor' id='news'></span>
-<span class='anchor' id='updates'></span>
+
 # News
 - [2026.01] We organize the [2nd Workshop & Challenge on Subtle Visual Computing (SVC)](https://sites.google.com/view/svc-cvpr26) @ CVPR 2026. Welcome to participate!
 - [2025.12] Two papers on facial AU detection and fine-grained recognition are accepted by IEEE TIP and TMM

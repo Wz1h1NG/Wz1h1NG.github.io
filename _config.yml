@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zitong Yu"
-description              : "Zitong Yu's Homepage"
+description              : 
 repository               : "ZitongYu/ZitongYu.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zitong Yu"
   avatar           : "images/zitong.png"
-  bio              : "Assistant Professor, Great Bay University"
-  location         : "Great Bay University, China"
+  bio              : "Assistant Professor,<br>Great Bay<br>University"
+  location         : "Songshan Lake Zone, Dongguan, Guangdong, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ziHejLwAAAAJ&hl=en"
