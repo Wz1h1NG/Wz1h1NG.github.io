@@ -36,11 +36,15 @@ redirect_from:
      My research interests include computer vision, biometric security, and multimodal learning.
 </p>
 
+<span class='anchor' id='research'></span>
+<span class='anchor' id='join-us'></span>
+
 <p style="text-align:justify; text-justify:inter-ideograph;">
     <font color="a82e2e"><b>[Urgent Recruitment:]</b> I am recruiting PostDoc (45W/year) and 特任研究员 (35W/year) and Research Assistant (Excellent master student) to join my research team. 
     For prospective collaborators, please email me with your CV and research plan. 每年招收湾大-深大/南科大联培硕士，湾大-哈工深联培博士若干.</font>
 </p>
 
+<span class='anchor' id='updates'></span>
 # News
 - [2026.01] We organize the [2nd Workshop & Challenge on Subtle Visual Computing (SVC)](https://sites.google.com/view/svc-cvpr26) @ CVPR 2026. Welcome to participate!
 - [2025.12] Two papers on facial AU detection and fine-grained recognition are accepted by IEEE TIP and TMM
@@ -86,6 +90,7 @@ function toggleList() {
 </script>
 
 
+<span class='anchor' id='publications'></span>
 # Publications
 ( # equal contribution, * corresponding author)
 
@@ -176,7 +181,7 @@ function toggleList() {
 - [5] Xuesong Niu, **Zitong Yu**, Hu Han, Xiaobai Li, Shiguang Shan, and Guoying Zhao. "**Video-based Remote Physiological Measurement via Cross-verified Feature Disentangling**." ECCV 2020 (Oral)
 - [4] **Zitong Yu**, Chenxu Zhao, Zezheng Wang, Yunxiao Qin, Zhuo Su, Xiaobai Li, Feng Zhou, and Guoying Zhao. "**Searching central difference convolutional networks for face anti-spoofing**." CVPR 2020
 - [3] Zezheng Wang, **Zitong Yu**, Chenxu Zhao, Xiangyu Zhu, Yunxiao Qin, Qiusheng Zhou, Feng Zhou, and Zhen Lei. "**Deep spatial gradient and temporal depth learning for face anti-spoofing**." CVPR 2020 (Oral)
- - [2] Yunxiao Qin, Chenxu Zhao, Xiangyu Zhu, Zezheng Wang, **Zitong Yu**, Tianyu Fu, Feng Zhou, Jingping Shi, and Zhen Lei. "**Learning meta model for zero-and few-shot face anti-spoofing**." AAAI 2020 (Spotlight)
+- [2] Yunxiao Qin, Chenxu Zhao, Xiangyu Zhu, Zezheng Wang, **Zitong Yu**, Tianyu Fu, Feng Zhou, Jingping Shi, and Zhen Lei. "**Learning meta model for zero-and few-shot face anti-spoofing**." AAAI 2020 (Spotlight)
 - [1] **Zitong Yu#**, Wei Peng#, Xiaobai Li, Xiaopeng Hong, and Guoying Zhao. "**Remote heart rate measurement from highly compressed facial videos: an end-to-end deep learning solution with video enhancement**." ICCV 2019
 
 # Research Grants
@@ -209,9 +214,8 @@ function toggleList() {
 - 1st Place in the ChaLearn multi-modal face anti-spoofing attack detection challenge @ CVPR 2020
 - 2nd Place on Action Recognition Track of ECCV 2020 VIPriors Challenges
 - Master Program Scholarship of Pays de la Loire, France
-- 3rd Place on the "WIN THE FUTURE" 2021 Venture Contest for International Entrepreneurs (Finland Contest Area)
-- Master Program Scholarship of Pays de la Loire, France
-
+ 
+<span class='anchor' id='experience'></span>
 # Membership
 - CCF东莞分部秘书长 (2024-2026)
 - CSIG生物特征识别专业委员会（筹）副秘书长
@@ -242,6 +246,7 @@ function toggleList() {
 - 'Non-Contact Human Sensing and Biometric Security’, Southern University of Science and Technology, 08.11.2021
 - 'Face Anti-Spoofing Attack Detection Techniques’, University of Jyväskylä, 28.03.2022
 
+<span class='anchor' id='services'></span>
 # Invited Journal Reviewer
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (since 2021)
 - International Journal of Computer Vision (since 2022)
@@ -256,7 +261,7 @@ function toggleList() {
 - IET Biometrics (since 2022)
 - Security and Communication Networks (since 2021)
 - Journal of Visual Communication and Image Representation (since 2021)
- - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM) (since 2021)
+- ACM Transactions on Multimedia Computing, Communications and Applications (TOMM) (since 2021)
 
 # Associate Editor (AE) or Consulting Area Editor (CAE)
 - [Machine Intelligence Research](https://www.mi-research.net/) (MIR, JCR Q1) 青年编委
@@ -279,6 +284,7 @@ function toggleList() {
 - AAAI'22, CVPR'22, ICME'22, IJCAI'22, ECCV'22, PRCV'22,
 - ICME'21, ICCV'21
 
+<span class='anchor' id='teaching'></span>
 # Teaching
 - lecturer for Introduction to Computer Science (CS101), Great Bay Univesity, Autumn 2025
 - Teaching assistant (TA) for Computer Graphics (521140S), University of Oulu, Spring 2020, 2021

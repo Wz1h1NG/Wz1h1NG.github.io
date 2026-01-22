@@ -10,7 +10,7 @@ main:
     url: "/#updates"
 
   - title: "Publications"
-    url: "assets/publication.html"
+    url: "/#publications"
 
   - title: "Experience"
     url: "/#experience"
@@ -19,13 +19,13 @@ main:
     url: "https://c4g-hkust.github.io/"
   
   - title: "Teaching"
-    url: "assets/teaching.html"
+    url: "/#teaching"
 
   - title: "Services"
-    url: "assets/services.html"
+    url: "/#services"
 
   - title: "Join Us"
-    url: "assets/join_us.html"
+    url: "/#join-us"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
