@@ -36,7 +36,6 @@ redirect_from:
      My research interests include computer vision, biometric security, and multimodal learning.
 </p>
 
-<span class='anchor' id='research'></span>
 <span class='anchor' id='join-us'></span>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
@@ -44,6 +43,7 @@ redirect_from:
     For prospective collaborators, please email me with your CV and research plan. 每年招收湾大-深大/南科大联培硕士，湾大-哈工深联培博士若干.</font>
 </p>
 
+<span class='anchor' id='news'></span>
 <span class='anchor' id='updates'></span>
 # News
 - [2026.01] We organize the [2nd Workshop & Challenge on Subtle Visual Computing (SVC)](https://sites.google.com/view/svc-cvpr26) @ CVPR 2026. Welcome to participate!
